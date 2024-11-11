@@ -55,7 +55,7 @@ Tram number 7 and 8 also stop there if coming from other directions.
 </div>
 
 <h5>Sightseeing in Gothenburg</h5>
-Please, visit the <a href="http://www.goteborg.com/en/">Göteborg tourist information</a> page for the <a href="http://www.goteborg.com/en/10-must-dos-in-gothenburg/">10-must-dos</a> 
+Please, visit the <a href="http://www.goteborg.com/en/">Göteborg tourist information</a> page for the <a href="https://www.goteborg.com/en/guides/10-must-dos-in-gothenburg">10-must-dos</a> 
 
 <h5 id="staying_in">Staying in Gothenburg</h5>
 <h5>Hotels</h5>
