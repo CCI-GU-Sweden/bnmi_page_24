@@ -1,0 +1,92 @@
+---
+title: false
+styles: true
+---
+
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #05bf85 !default;
+
+// Text colours
+$headingColour: #242e2b !default;
+$bodyColour: #384743 !default;
+$linkColour: #0a07ca !default;
+$hoverColour: #7869fd !default;
+$focusColour: #fa407a !default;
+$captionColour: #27f5f5 !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: "Georgia, sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Merriweather", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+.bullet-div {
+  padding-left: 50px;
+}
+
+.pricing-container {
+  margin-top: 10px;
+  margin-left: 20px; /* Adds some left margin to the entire container */
+  font-weight: bold;
+}
+
+.speaker-container {
+  margin-top: -10px;
+  margin-left: 20px; /* Adds some left margin to the entire container */
+}
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.two-columns-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+$measure-width: 1000px;
+
+
+// .content {
+//   max-width: 1000px; /* Adjust this value as needed */
+//   margin: 0 auto;
+// }
+
+@import "alembic";
+
+.content {
+  @include breakpoint(break-1) {
+    width: 85%;
+  }
+}
+
+//override theme's page text width
+.page-content {
+  max-width: 99%;  // Adjust this value as needed
+  margin: 0 auto;
+}
