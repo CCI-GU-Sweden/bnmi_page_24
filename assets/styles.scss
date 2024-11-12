@@ -3,6 +3,9 @@ title: false
 styles: true
 ---
 
+
+
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
@@ -10,32 +13,33 @@ $featureBackgroundColour: #f9fafa !default;
 $accentColour: #05bf85 !default;
 
 // Text colours
-$headingColour: #242e2b !default;
-$bodyColour: #384743 !default;
-$linkColour: #0a07ca !default;
+$headingColour: #1D374E !default;
+$bodyColour: #1D374E !default;
+$linkColour: #1D374E !default;
 $hoverColour: #7869fd !default;
 $focusColour: #fa407a !default;
-$captionColour: #27f5f5 !default;
+$captionColour: #1D374E !default;
 $white: #ffffff !default;
+
 
 // Typography
 $bodytype: (
-  font-family: "Georgia, sans-serif",
+  font-family: '"Arial", sans-serif',
   regular: 400,
   bold: 700,
-  italic: italic,
+//  italic: italic,
   cap-height: 0.75
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", sans-serif',
+  font-family: '"Arial", sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: "Menlo, monospace",
+  font-family: '"Arial", sans-serif',
   regular: 400,
   cap-height: 0.68
 ) !default;
@@ -76,8 +80,20 @@ $measure-width: 1000px;
 //   max-width: 1000px; /* Adjust this value as needed */
 //   margin: 0 auto;
 // }
-
 @import "alembic";
+
+
+.copyright small{
+  color: #ffffff;
+}
+
+.header a {
+  font-size: large;
+}
+
+.footer a {
+  color: #ffffff;
+}
 
 .content {
   @include breakpoint(break-1) {
@@ -90,3 +106,4 @@ $measure-width: 1000px;
   max-width: 99%;  // Adjust this value as needed
   margin: 0 auto;
 }
+
