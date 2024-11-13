@@ -46,6 +46,13 @@ $monospacetype: (
 
 .bullet-div {
   padding-left: 50px;
+  padding-top: 0;
+}
+
+body .bullet-div ul {
+  line-height: 1.2;
+  margin: 0;
+  padding-left: 20px;
 }
 
 .pricing-container {
@@ -55,7 +62,7 @@ $monospacetype: (
 }
 
 .speaker-container {
-  margin-top: -10px;
+  //margin-top: -5px;
   margin-left: 20px; /* Adds some left margin to the entire container */
 }
 
@@ -97,13 +104,32 @@ $measure-width: 1000px;
 
 .content {
   @include breakpoint(break-1) {
-    width: 85%;
+    width: 80%;
+    font-size: medium;
+    line-height: 1.0;
   }
+
+  // p br {
+  //   margin: 10 0;
+  //   line-height: 0.5;
+  // }
+
+  p {
+    line-height: 1.1;
+    margin-bottom: 0.4rem;
+    padding-top: 0.3rem;
+//    padding: 0;
+  }
+
 }
 
-//override theme's page text width
-.page-content {
-  max-width: 99%;  // Adjust this value as needed
-  margin: 0 auto;
-}
+// //override theme's page text width
+// .page-content {
+//   max-width: 99%;  // Adjust this value as needed
+//   margin: 0 auto;
+//   font-size: small;
+//   font-size: medium;
+//   line-height: 0.55;
+
+// }
 

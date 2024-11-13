@@ -4,10 +4,10 @@ permalink: /organizers/
 feature_image: "/assets/hero.png"
 ---
 
-<h2>
+<h4>
 Organizers:
-</h2>
-
+</h4>
+<br/>
 Bridging Nordic Microscopy Infrastructure (BNMI) aims to enhance international competitiveness and support the development of world-leading advanced microscopy environments across the Nordic region.
 
 <b>Scientific committee the BNMI Board</b>
@@ -33,7 +33,8 @@ Bridging Nordic Microscopy Infrastructure (BNMI) aims to enhance international c
 </div>
 
 
-<h5>Local Organizing Comittee</h5>
+<h6>Local Organizing Comittee</h6>
+<br/>
 The Centre for Cellular Imaging, University of Gothenburg, Sweden  
 Rafael Camacho  
 Karl Zhang  

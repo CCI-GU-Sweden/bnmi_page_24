@@ -29,13 +29,13 @@ dinner:
 ---
 
 
-<h2>Registration:</h2>
+<h4>Registration:</h4>
 
 
 All participants must register for the symposium. The deadline for early online registration is May 1st, 2025. While all attendees are encouraged to submit a scientific abstract upon registration, this is mandatory for PhD students and postdocs. Priority will be given to participants based in Nordic countries.
 
-<h4>
-Registration Fees</h4>
+<h5>
+Registration Fees</h5>
 
 
 <div class="pricing-container">
@@ -69,9 +69,8 @@ Registration Fees</h4>
     </div>
 </div>
 
-<br/>
 
-Included in Delegate registration:
+Included in Delegate registration:  
 <div class="bullet-div" markdown="1">
 * Welcome Reception
 * Access to all symposium 
@@ -79,7 +78,8 @@ Included in Delegate registration:
 * Lunches 
 * Coffee-breaks
 * Poster sessions
-</div>
+</div>  
+
 Travel and accommodation arrangements are the responsibility of the individual delegate.
 
 Registration for the symposium can be done through the website: Discus with Maria for the link of Registration 

@@ -4,11 +4,11 @@ permalink: /programme/
 feature_image: "/assets/hero.png"
 ---
 
-<h2>
+<h4>
 Programme:
-</h2>
+</h4>
 
-
+<br>
 <div class="sessions-list">
   {% for session in site.sessions %}
     <div class="session-item">
