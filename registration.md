@@ -17,11 +17,11 @@ prices:
   - category: Regular
     items:
     - name: Academic
-      price: 3000
+      price: 4000
     - name: Student (PhD)
-      price: 1500
+      price: 2500
     - name: Non-Academic
-      price: 4500
+      price: 5500
        
 dinner:
   name: Dinner
