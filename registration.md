@@ -22,6 +22,11 @@ prices:
       price: 2500
     - name: Non-Academic
       price: 5500
+  # - category: Dinner
+  #   items:
+  #   - name: "dinner"
+  #   - price: 350
+    
        
 dinner:
   name: Dinner
@@ -53,21 +58,24 @@ Registration Fees</h5>
               <div class="column">
                 {{ item.price }}
               </div>
-              </div>
+            </div>
           {% endfor %}
-          </div>    
+        </div>    
   {% endfor %}
 
-<br/>
+  <br/>
+
   <div class="row">
     <div class="column">
         {{ page.dinner.name }}
     </div>
-    <div class="column">
+    <div class="column" style="flex: 43%;">
       {{ page.dinner.price }}
     </div>
-    </div>
-</div>
+  </div> 
+
+</div> 
+<br/>
 
 
 Included in Delegate registration:  
