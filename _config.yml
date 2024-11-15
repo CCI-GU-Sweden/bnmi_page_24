@@ -112,8 +112,8 @@ navigation_header:
   url: /organizers/
 - title: Sponsors
   url: /sponsors/
-- title: Abstract Submission
-  url: /abstracts/
+# - title: Abstract Submission
+#   url: /abstracts/
 
 navigation_footer:
 - title: CCI
@@ -122,6 +122,8 @@ navigation_footer:
 #   url: /contact/
 - title: Search
   url: /search/
+- title: Registration
+  url: /registration/
 
 
 
