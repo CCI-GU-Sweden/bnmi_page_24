@@ -3,11 +3,9 @@ layout: page
 permalink: /travel/
 feature_image: "/assets/hero.png"
 ---
-
 <h4>
 Travel:
 </h4>
-
 
 <h5>Quick access to the different parts of this page:</h5>
 <div class="bullet-div" markdown="1">
@@ -17,7 +15,6 @@ Travel:
 </div>
 
 <h5 id="getting_to">Getting to Gothenburg</h5>
-
 
 <h6>By air</h6>
 <b>Göteborg Landvetter Airport</b> is an international airport serving the Gothenburg region in Sweden. It is located 20 Km south-east of the city centre and you can travel directly from various destinations in Europa and the world. For general information, please click <a href="http://www.swedavia.com/landvetter/">here</a>.
@@ -46,12 +43,12 @@ Get off at Korsvägen stop and take tram number 6  with direction ‘Länsmansg
 
 <div class="bullet-div" markdown="1">
 * **From Nils Ericsson terminal (bus terminal) to the Venue**  
-Take a tram number 6, 7 or 13 from the bus terminal, Nils Ericsson terminal, to Medicinaregatan stop. 
+Take a tram number 6 or 7 or 13 from the bus terminal, Nils Ericsson terminal (Drottningtorget), to Medicinaregatan stop. 
 </div>
 
 <div class="bullet-div" markdown="1">
 * **From city centre to the Venue**  
-Tram number 7 and 8 also stop there if coming from other directions.
+From stop valand tram number 7 and bus 753 will take you to Medicinaregatan.
 </div>
 
 <h6>Sightseeing in Gothenburg</h6>
