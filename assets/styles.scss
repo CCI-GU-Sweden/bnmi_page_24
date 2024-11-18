@@ -64,6 +64,9 @@ body .bullet-div ul {
 .speaker-container {
   //margin-top: -5px;
   margin-left: 20px; /* Adds some left margin to the entire container */
+  border-top: 1px solid rgba(0, 0, 0, 0.1); /* Light top border */
+  margin: 20px 0; /* Space above and below */
+  padding-top: 10px; /* Space above the text */
 }
 
 

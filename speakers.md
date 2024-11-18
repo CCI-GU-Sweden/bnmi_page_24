@@ -19,14 +19,15 @@ Keynote speakers
 </h5>
 <br>
 {% for speakers in keynote_speakers %}
+<div class="speaker-container">
+  {{ speakers.title }}
+</div>
+
   {% for speaker in speakers.speakers %}
 <b>{{ speaker.name | escape }}</b>,
 {{ speaker.institute }},
 <b>{{ speaker.country }}</b>:
   {% endfor %}
-<div class="speaker-container">
-  {{ speakers.title }}
-</div>
 {% endfor %}
 
 <br/>
@@ -38,7 +39,6 @@ Sessions:
 <div class="speaker-container">
   {{ speakers.title }}
 </div>
-<br/>
   {%- for speaker in speakers.speakers -%}
 <b>{{ speaker.name | escape }}</b>,
 {{ speaker.institute }},
