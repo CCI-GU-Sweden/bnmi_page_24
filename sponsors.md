@@ -5,7 +5,7 @@ feature_image: "/assets/hero.png"
 
 sponsors:
   - name: Zeiss
-    logo: /assets/zeiss.png
+    logo: /assets/zeiss_scaled.png
     link: https://www.zeiss.com/microscopy
   - name: Bergman Labora
     logo: /assets/BergmanLabora.png
@@ -44,7 +44,9 @@ A huge thanks to our sponsors:
 <div class="logo-container">
   {% for logo in page.sponsors %}
     <div class="logo-item">
+      <a href="{{ logo.link }}">
       <img src="{{ logo.logo }}" alt="{{ logo.name }}">
+      </a>
     </div>
   {% endfor %}
 </div>
