@@ -123,6 +123,91 @@ $measure-width: 1000px;
 
 }
 
+// .image-table {
+//   border-collapse: separate;
+//   border-spacing: 10px 0; /* This creates horizontal spacing between cells */
+// }
+
+// .image-cell {
+//   padding: 0;
+//   vertical-align: top; /* This top-justifies the content in each cell */
+// }
+
+// .image-cell img {
+//   max-width: 100%; /* This ensures images don't overflow their cells */
+//   height: auto; /* This maintains the aspect ratio of the images */
+//   display: block; /* This removes any extra space below inline images */
+// }
+
+// .logo-container {
+//   column-count: 1; /* Start with 1 column on small screens */
+// }
+
+// @media (min-width: 768px) {
+//   .logo-container {
+//     column-count: 2; /* 2 columns on medium screens */
+//   }
+// }
+
+// @media (min-width: 1024px) {
+//   .logo-container {
+//     column-count: 3; /* 3 columns on large screens */
+//   }
+// }
+
+.logo-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Space between logo items */
+  justify-content: center; /* Center the logos horizontally */
+}
+
+.logo-item {
+  flex: 0 1 calc(33.333% - 20px); /* Flex-basis for 3 columns, subtracting the gap */
+  max-width: calc(33.333% - 20px); /* Max width to ensure 3 columns */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-item img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain; /* Ensures the entire logo is visible */
+}
+
+@media (max-width: 768px) {
+  .logo-item {
+    flex: 0 1 calc(50% - 20px); /* 2 columns on medium screens */
+    max-width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-item {
+    flex: 0 1 100%; /* 1 column on small screens */
+    max-width: 100%;
+  }
+}
+
+
+
+
+// .logo-container {
+//   column-count: 3; /* Creates 3 columns */
+//   column-gap: 20px; /* Space between columns */
+// }
+
+// .logo-item {
+//   break-inside: avoid; /* Prevents logos from splitting across columns */
+//   margin-bottom: 20px; /* Space between logos */
+// }
+
+// .logo-item img {
+//   width: 100%; /* Makes the image fill its container */
+//   height: auto; /* Maintains aspect ratio */
+// }
+
 // //override theme's page text width
 // .page-content {
 //   max-width: 99%;  // Adjust this value as needed

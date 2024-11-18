@@ -108,10 +108,13 @@ navigation_header:
   url: /venue/
 - title: Travel
   url: /travel/
+- title: Workshops
+  url: /workshops/
 - title: Organizers
   url: /organizers/
 - title: Sponsors
   url: /sponsors/
+
 # - title: Abstract Submission
 #   url: /abstracts/
 

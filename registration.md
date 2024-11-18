@@ -10,18 +10,24 @@ prices:
     items:
     - name: Academic
       price: 3000
+      eur: 300
     - name: Student (PhD)
       price: 1500
+      eur: 150
     - name: Non-Academic
       price: 4500
+      eur: 450
   - category: Regular
     items:
     - name: Academic
       price: 4000
+      eur: 400
     - name: Student (PhD)
       price: 2500
+      eur: 250
     - name: Non-Academic
       price: 5500
+      eur: 550
   # - category: Dinner
   #   items:
   #   - name: "dinner"
@@ -31,6 +37,7 @@ prices:
 dinner:
   name: Dinner
   price: 350
+  eur: 35
 ---
 
 
@@ -56,7 +63,7 @@ Registration Fees</h5>
                   {{ item.name }}
               </div>
               <div class="column">
-                {{ item.price }}
+                sek {{ item.price }} (or € {{ item.eur }})
               </div>
             </div>
           {% endfor %}
@@ -69,8 +76,8 @@ Registration Fees</h5>
     <div class="column">
         {{ page.dinner.name }}
     </div>
-    <div class="column" style="flex: 43%;">
-      {{ page.dinner.price }}
+    <div class="column" style="flex: 45%;">
+    sek {{ page.dinner.price }} (or € {{ page.dinner.eur }})
     </div>
   </div> 
 

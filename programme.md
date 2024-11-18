@@ -7,6 +7,10 @@ feature_image: "/assets/hero.png"
 <h4>
 Programme:
 </h4>
+<br/>
+Coming!
+
+<h5>Sessions:</h5>
 
 <br>
 <div class="sessions-list">
@@ -22,6 +26,9 @@ Programme:
   {% endfor %}
 </div>
 
+<h5>Workshops:</h5>
+
+<br/>
 In advance of BNMI 2025 Symposium, we are pleased to offer a series of hands-on <b>pre-Symposium workshops</b> on August 18 and 19. These sessions will cover cutting-edge topics, including:
 <div class="bullet-div">
     <ul>
@@ -33,9 +40,7 @@ In advance of BNMI 2025 Symposium, we are pleased to offer a series of hands-on 
 </div>
 These workshops offer a valuable opportunity for participants to gain hands-on experience with advanced imaging techniques before the main symposium. Join us to deepen your technical expertise and expand your research toolkit! The pre-symposium workshops are free for those who register and attend the main event. Due to limited space, we request a brief motivation letter and a short biosketch from each applicant. The pre-symposium workshops are free of charge; however, registration is required. Due to limited availability, we kindly ask each applicant to submit a brief motivation letter and a short biosketch.
 
-Please register here: We nee dto make the registrtion link 
+Registration link coming soon!
 
 
-Spread the word:
-{% include nav-share.html %}
 

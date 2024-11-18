@@ -35,14 +35,15 @@ Sessions:
 </h5>
 <br>
 {% for speakers in session_speakers %}
+<div class="speaker-container">
+  {{ speakers.title }}
+</div>
+<br/>
   {%- for speaker in speakers.speakers -%}
 <b>{{ speaker.name | escape }}</b>,
 {{ speaker.institute }},
 <b>{{ speaker.country }}</b><br/>
   {% endfor %}
-<div class="speaker-container">
-  {{ speakers.title }}
-</div>
 <br/><br/>
 {% endfor %}
 
