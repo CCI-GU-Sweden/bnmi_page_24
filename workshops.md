@@ -12,6 +12,6 @@ Workshops:
 
 <br/>
 
-Make sure to sign ut for our pre-conference workshops!
+Make sure to watch for our pre-conference workshops!
 <br/>
 Registration link coming soon!
