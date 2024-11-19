@@ -14,7 +14,7 @@ sponsors:
     logo: /assets/Nikon.png
     link: https://www.microscope.healthcare.nikon.com/
   - name: Miltenyi Biotec
-    logo: ""
+    logo: /assets/Logo_MiltenyiBiotec_RGB.png
     link: https://www.miltenyibiotec.com/DK-en/products/macs-imaging-and-spatial-biology.html?query=:relevance:allCategoriesOR:10000646
 
 columns: 3
