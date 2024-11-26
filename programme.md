@@ -8,7 +8,12 @@ feature_image: "/assets/hero.png"
 Programme:
 </h4>
 <br/>
-Coming!
+
+<h5>
+Schedule:
+</h5>
+
+![image](/assets/tmp_schedule.png)
 
 <h5>Sessions:</h5>
 
