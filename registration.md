@@ -100,6 +100,6 @@ Travel and accommodation arrangements are the responsibility of the individual d
 Registrations will open soon!
 <!-- Registration for the symposium can be done through the website <b>[here](https://www.lyyti.fi/reg/BNMI_2025_Symposium_9129){:target="_blank"}</b> -->
 
-Please note that the pre-symposium workshops are not included in the registration fee for this symposium. Check out the **[workshop]({{site.baseurl}}/workshops)** page for more information about that.
+Please note that the pre-symposium workshops are not included in the registration fee for this symposium. Check out the **[workshops]({{site.baseurl}}/workshops)** page for more information about that.
 
 All symposium communications, including program updates, speaker lists, abstracts, and reminders, will be shared via email and on this website. Please be sure to add the symposium to your calendar and check the website regularly for the latest information.

@@ -45,7 +45,7 @@ In advance of BNMI 2025 Symposium, we are pleased to offer a series of hands-on 
 </div>
 These workshops offer a valuable opportunity for participants to gain hands-on experience with advanced imaging techniques before the main symposium. Join us to deepen your technical expertise and expand your research toolkit! The pre-symposium workshops are free for those who register and attend the main event. Due to limited space, we request a brief motivation letter and a short biosketch from each applicant. The pre-symposium workshops are free of charge; however, registration is required. Due to limited availability, we kindly ask each applicant to submit a brief motivation letter and a short biosketch.
 
-Registration link coming soon!
+ Check out the **[workshops]({{site.baseurl}}/workshops)** page for more information and registration.
 
 
 
