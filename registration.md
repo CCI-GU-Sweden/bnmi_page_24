@@ -89,7 +89,7 @@ Included in Delegate registration:
 <div class="bullet-div" markdown="1">
 * Welcome Reception
 * Access to all symposium 
-* Company Presentation
+* Company Presentations
 * Lunches 
 * Coffee-breaks
 * Poster sessions
