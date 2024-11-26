@@ -6,13 +6,10 @@ permalink: /workshops/
 feature_image: "/assets/hero.png"
 ---
 
-<h4>
-Workshops:
-</h4>
 
-<h5>
+<h4>
 BNMI 2025 pre-Symposium workshops
-</h5>
+</h4>
 
 <br/>
 
