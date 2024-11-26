@@ -26,4 +26,6 @@ The topics for the workshops are:
 
 <br/>
 
-Register for the workshops using <b>[this link!](https://forms.office.com/e/nj4R3a3bF6?origin=lprLink){:target="_blank"}</b>
+Registration for the workshops will open shortly!
+
+<!-- Register for the workshops using <b>[this link!](https://forms.office.com/e/nj4R3a3bF6?origin=lprLink){:target="_blank"}</b> -->
