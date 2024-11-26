@@ -10,8 +10,20 @@ feature_image: "/assets/hero.png"
 Workshops:
 </h4>
 
+<h5>
+BNMI 2025 pre-Symposium workshops
+</h5>
+
 <br/>
 
-Make sure to watch for our pre-conference workshops!
+We are also organizing pre-Symposium workshops that will be held on 18th and 19th of August. 
+The topics for the workshops are:
+<div class="bullet-div" markdown="1">
+* Correlative Array Tomography 
+* Smart Microscopy 
+* Optical Tissue Clearing Techniques for 3D Lightsheet 
+</div>
+
 <br/>
-Registration link coming soon!
+
+Register for the workshops using <b>[this link!](https://forms.office.com/e/nj4R3a3bF6?origin=lprLink){:target="_blank"}</b>
