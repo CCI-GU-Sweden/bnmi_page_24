@@ -4,6 +4,7 @@ title: "The group has been studying the biochemical composition of spindle assem
 speakers:
     - name: Eric Karsenti
       country: Germany
+      img: /assets/speakers/eric.jpg
       institute: EMBL Heidelberg
       presentation: ""
 

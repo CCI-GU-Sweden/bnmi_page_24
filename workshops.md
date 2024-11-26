@@ -6,14 +6,13 @@ permalink: /workshops/
 feature_image: "/assets/hero.png"
 ---
 
-
 <h4>
-BNMI 2025 pre-Symposium workshops
+BNMI 2025 pre-symposium workshops
 </h4>
 
 <br/>
 
-We are also organizing pre-Symposium workshops that will be held on 18th and 19th of August. 
+We are also organizing pre-symposium workshops that will be held on 18th and 19th of August. 
 The topics for the workshops are:
 <div class="bullet-div" markdown="1">
 * Correlative Array Tomography 

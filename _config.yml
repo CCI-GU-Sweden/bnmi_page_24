@@ -30,7 +30,7 @@ github_username:  xfolka
 #permalink: /:title/
 
 #cover: "/assets/header_image.jpg"
-feature_iamge: ./assets/Prntcompnay_2.png
+feature_iamge: ./assets/hero2.png
 logo: /assets/bnmi.png
 
 collections:

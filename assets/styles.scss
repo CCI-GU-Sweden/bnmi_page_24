@@ -63,12 +63,18 @@ body .bullet-div ul {
 
 .speaker-container {
   //margin-top: -5px;
-  margin-left: 20px; /* Adds some left margin to the entire container */
+//  margin-left: 20px; /* Adds some left margin to the entire container */
   border-top: 1px solid rgba(0, 0, 0, 0.1); /* Light top border */
   margin: 20px 0; /* Space above and below */
   padding-top: 10px; /* Space above the text */
+  //justify-content: center;
+  //align-items: center;
+  text-align: center;
 }
 
+// header {
+//   height: 750px;
+// }
 
 .row {
   display: flex;
@@ -91,6 +97,11 @@ $measure-width: 1000px;
 //   margin: 0 auto;
 // }
 @import "alembic";
+
+
+.feature .container {
+  min-height: 47vh;
+}
 
 
 .copyright small{
@@ -158,10 +169,22 @@ $measure-width: 1000px;
 //   }
 // }
 
+
+
+
+.img-center {
+  display: flex;
+  flex-wrap: wrap;
+//  gap: 20px; /* Space between logo items */
+  justify-content: center; /* Center the logos horizontally */
+//  align-items: center;
+}
+
+
 .logo-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px; /* Space between logo items */
+  gap: 10px; /* Space between logo items */
   justify-content: center; /* Center the logos horizontally */
 }
 
@@ -177,7 +200,7 @@ $measure-width: 1000px;
   max-width: 100%;
   height: auto;
   object-fit: contain; /* Ensures the entire logo is visible */
-  max-height: 250px; /* Adjust this value as needed */
+  max-height: 150px; /* Adjust this value as needed */
 }
 
 @media (max-width: 768px) {
@@ -194,8 +217,42 @@ $measure-width: 1000px;
   }
 }
 
+.center {
+  display: table;
+  margin: 0 auto; /* Centers the figure element */
+  text-align: center; /* Centers the caption text */
+}
+
+.center img {
+  width: 200px;
+  display: block;
+  margin: 0 auto; /* Ensures the image itself is centered within the figure */
+  object-fit: cover;  
+}
+
+.center figcaption {
+  margin-top: 8px; /* Adds some space between the image and caption */
+  font-size: 14px; /* Adjusts font size as needed */
+}
 
 
+.image-container {
+  display: flex;                /* Use flexbox for layout */
+  justify-content: center;      /* Center the images horizontally */
+  gap: 20px;                   /* Space between the images */
+}
+
+.image-container figure {
+  text-align: center;          /* Center caption text under each image */
+  margin: 0;                   /* Remove default margin */
+}
+
+.image-container img {
+  width: 100%;             /* Responsive image size */
+  height: auto;                /* Maintain aspect ratio */
+  height: 350px;               /* Set a fixed height for consistency */
+  object-fit: cover;  
+}
 
 // .logo-container {
 //   column-count: 3; /* Creates 3 columns */

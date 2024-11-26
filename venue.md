@@ -21,4 +21,15 @@ The Wallenberg Conference Centre is a modern, centrally located, and flexible mu
 
 The premises are accessible and safe for disabled people.
 
+<div class="image-container">
+    <figure>
+        <img src="/assets/wallenberg.jpg" alt="The Wallenberg centre buliding">
+        <figcaption>The Wallenberg centre buliding</figcaption>
+    </figure>
+    <figure>
+        <img src="/assets/lecture_hall.jpg" alt="The Wallenberg lecture hall">
+        <figcaption>The Wallenberg lecture hall</figcaption>
+    </figure>
+</div>
+
 

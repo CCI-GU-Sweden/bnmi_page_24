@@ -21,8 +21,12 @@ The program will feature a compelling mix of lectures, poster sessions, and sele
 <br>
 We hope you'll join us in Gothenburg for what promises to be an exciting and educational meeting. On behalf of the entire organizing committee, we look forward to welcoming you during the brightest season of the year. Wishing you a wonderful stay in Gothenburg!
 
-
-Julia Fernandez-Rodriguez
-Head of the Centre for Cellular Imaging
+<figure class="center">
+<img src="/assets/julia.jpg" width="150px" height="auto"/>
+<figcaption>
+Julia Fernandez-Rodriguez<br>
+Head of the Centre for Cellular Imaging<br>
 Chair of BNMI 2025
+</figcaption>
+</figure>
 

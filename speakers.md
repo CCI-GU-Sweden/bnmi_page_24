@@ -19,31 +19,48 @@ Keynote speakers
 </h5>
 <br>
 {% for speakers in keynote_speakers %}
-<div class="speaker-container">
+<div class="speaker-container" style="text-align: left;">
   {{ speakers.title }}
 </div>
 
+<div class="image-container">
   {% for speaker in speakers.speakers %}
-<b>{{ speaker.name | escape }}</b>,
-{{ speaker.institute }},
-<b>{{ speaker.country }}</b>:
-  {% endfor %}
+<figure>
+<img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
+<figcaption>{{ speaker.name }}</figcaption>
+</figure>
+
+<!-- <b>{{ speaker.name | escape }}</b>,
+{{ speaker.institute }}, -->
+
+<!-- <b>{{ speaker.country }}</b>: -->
+{% endfor %}
+</div>
 {% endfor %}
 
 <br/>
 <h5>
-Sessions:  
+Speakers
 </h5>
 <br>
 {% for speakers in session_speakers %}
 <div class="speaker-container">
-  {{ speakers.title }}
+  <b>{{ speakers.title }}</b>
 </div>
-  {%- for speaker in speakers.speakers -%}
-<b>{{ speaker.name | escape }}</b>,
+<div class="image-container">
+{% for speaker in speakers.speakers %}
+
+<figure>
+  <img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
+  <figcaption>{{ speaker.name }}</figcaption>
+</figure>
+
+<!-- <b>{{ speaker.name | escape }}</b>,
 {{ speaker.institute }},
-<b>{{ speaker.country }}</b><br/>
-  {% endfor %}
+<b>{{ speaker.country }}</b><br/> -->
+{% endfor %}
+</div>
+
 <br/><br/>
 {% endfor %}
 

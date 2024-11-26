@@ -19,11 +19,23 @@ Travel:
 <h6>By air</h6>
 <b>Göteborg Landvetter Airport</b> is an international airport serving the Gothenburg region in Sweden. It is located 20 Km south-east of the city centre and you can travel directly from various destinations in Europa and the world. For general information, please click <a href="http://www.swedavia.com/landvetter/">here</a>.
 
+<figure class="center">
+<img src="/assets/swedavia.jpg" width="35%" height="auto"/>
+</figure>
+
 <h6>Airport transfer</h6>
 It’s easy to get to and from the airport with the shuttle bus service <a href="http://www.flygbussarna.se/en">Flygbussarna</a> and the journey time is between 25 and 30 minutes. Buses leave from right outside the terminal building and the final stop is the main bus station <b>Nils Ericssonterminalen</b> in central Gothenburg. <a href="http://www.swedavia.com/landvetter/to-from/taxi/">Taxi</a> or rental cars are also available at the airport.
 
+<figure class="center">
+<img src="/assets/flygbuss.jpg" width="35%" height="auto"/>
+</figure>
+
 <h6>By train</h6>
 <a href="https://www.sj.se/?a=b&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQiA_qG5BhDTARIsAA0UHSLT3O09pk3zQGWNacoG_vcDBOoYzAmhs_c6t1cJYn2R4cTVfrYWcOUaAvu7EALw_wcB">SJ</a>, <a href="http://www.vasttrafik.se/#!/en/">Västtrafik</a>, <a href="http://www.tagakeriet.se/">Tågab</a>, and  are running frequent services to and from the <b>Central Station in Gothenburg</b>, connecting the city with the Scandinavian capitals Stockholm, Oslo and Copenhagen. The journey times are just under 4 hours from Oslo, around 3 hours from Stockholm and 3,5 hours from Copenhagen. The trains from Denmark stop at Copenhagen international airport, making it a convenient option to fly there and catch the train to Gothenburg.
+
+<figure class="center">
+<img src="/assets/centralstation.jpg" width="35%" height="auto"/>
+</figure>
 
 <h6>By bus</h6>
 The bus terminal <b>Nils Ericsson terminalen</b> is serviced by long distance and express bus companies like <a href="http://www.swebus.se/SwebusExpress_com/">Swebus</a>, <a href="https://www.bus4you.se">bus4you</a> (in Swedish). You can easily travel to Gothenburg from the major cities in Sweden and Scandinavia. The journey time is around 3,5 hours from Oslo, 6,5 hours from Stockholm, 3,5 hours from Malmö and 5 hours from Copenhagen.
