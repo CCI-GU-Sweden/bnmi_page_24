@@ -127,6 +127,8 @@ navigation_footer:
   url: /search/
 - title: Registration
   url: /registration/
+- title: Workshops
+  url: /workshops/
 
 
 
