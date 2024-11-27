@@ -26,14 +26,17 @@ Keynote speakers
 <div class="image-container">
   {% for speaker in speakers.speakers %}
 <figure>
+    {% if speaker.weblink" %}
+<a href="{{ speaker.weblink }}">
+    {% endif %}
 <img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
+    {% if speaker.weblink %}
+</a>
+    {% endif %}
+
 <figcaption>{{ speaker.name }}</figcaption>
 </figure>
 
-<!-- <b>{{ speaker.name | escape }}</b>,
-{{ speaker.institute }}, -->
-
-<!-- <b>{{ speaker.country }}</b>: -->
 {% endfor %}
 </div>
 {% endfor %}
@@ -51,13 +54,16 @@ Speakers
 {% for speaker in speakers.speakers %}
 
 <figure>
+    {% if speaker.weblink %}
+<a href="{{ speaker.weblink }}">
+    {% endif %}
   <img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
+   {% if speaker.weblink %}
+</a>
+    {% endif %}
   <figcaption>{{ speaker.name }}</figcaption>
 </figure>
 
-<!-- <b>{{ speaker.name | escape }}</b>,
-{{ speaker.institute }},
-<b>{{ speaker.country }}</b><br/> -->
 {% endfor %}
 </div>
 

@@ -33,6 +33,9 @@ github_username:  xfolka
 feature_iamge: ./assets/hero2.png
 logo: /assets/bnmi.png
 
+symposium_registration_link: https://www.lyyti.fi/reg/BNMI_2025_Symposium_9129
+workshops_registration_link: https://forms.office.com/e/nj4R3a3bF6?origin=lprLink
+
 collections:
   abstracts:
     output: true
