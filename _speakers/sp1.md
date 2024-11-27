@@ -7,7 +7,7 @@ speakers:
       img: /assets/speakers/eric.jpg
       institute: EMBL Heidelberg
       presentation: ""
-      weblink: https://www.embl.org/people/person/karsenti/
+      weblink: https://www.embl.org/groups/karsenti/
 
 ---
 
