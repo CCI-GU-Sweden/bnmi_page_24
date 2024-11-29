@@ -43,9 +43,9 @@ dinner:
 
 <h4>Registration:</h4>
 
-
+<p>
 All participants must register for the symposium. The deadline for early online registration is May 1st, 2025. While all attendees are encouraged to submit a scientific abstract upon registration, this is mandatory for PhD students and postdocs. Priority will be given to participants based in Nordic countries.
-
+</p>
 <h5>
 Registration Fees</h5>
 
