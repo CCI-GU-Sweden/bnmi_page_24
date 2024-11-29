@@ -32,8 +32,9 @@ We are deeply grateful to NordForsk and SciLifeLab for their generous support of
  
 The BNMI 2025 symposium serves as a vital platform to unite Nordic imaging infrastructures and life scientists, fostering stronger collaborations across the region. These gatherings are designed to encourage meaningful interactions among Nordic imaging facilities, while building dynamic and interconnected networks in the field of life science imaging. Together, we are advancing innovation and collaboration in microscopy and imaging science.
 </p>
+<br>
 
-<div class="image-container">
+<div class="image-container" style="width: 100%; height: auto; object-fit: scale-down;">
     <figure>
         <img src="/assets/nordforsk.png" alt="Nordforsk">
     </figure>
@@ -41,6 +42,7 @@ The BNMI 2025 symposium serves as a vital platform to unite Nordic imaging infra
         <img src="/assets/scilifelab.png" alt="scilifelab">
     </figure>
 </div>
+<br>
 
 <h4>
 Sponsors:
