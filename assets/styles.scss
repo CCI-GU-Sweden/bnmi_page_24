@@ -181,7 +181,8 @@ $measure-width: 1000px;
 }
 
 .center img {
-  width: 200px;
+  width: 300px;
+  height: auto;
   display: block;
   margin: 0 auto; /* Ensures the image itself is centered within the figure */
   object-fit: cover;  

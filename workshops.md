@@ -24,8 +24,12 @@ The topics for the workshops are:
         <br><br> 
         Over one and a half days, participants will learn the complete CAT workflow, from sample preparation to data analysis. Topics include fixation and resin embedding, sectioning and mounting, post-staining of sections, imaging with different modalities, and advanced image analysis and reconstruction. Attendees will gain both theoretical knowledge and practical skills to implement CAT in their research, enabling deeper exploration of complex scientific questions.
         </p>
+        <figure class="center">
+            <img src="/assets/cat_figure.png" style="width: 65%" height="auto"/>
+        </figure>
         </div>
     </div>
+    <br>
     <br>
     <div class="session-item">
         <b>2. Smart Microscopy</b>
@@ -35,7 +39,11 @@ The topics for the workshops are:
             <br><br>
             Over one and a half days, participants will delve into the principles and practices of Smart Microscopy, using both commercial and open-source tools. Hands-on sessions will cover target identification, adaptive feedback loops, and integration with external hardware and software for advanced automation. The workshop emphasizes transferable strategies, ensuring participants can develop adaptive workflows tailored to their specific instruments. Join us to explore how Smart Microscopy can enhance your experimental efficiency and data reproducibility.
             </p>
+            <figure class="center">
+                <img src="/assets/smart_microscopy.png" style="width: 65%" height="auto"/>
+            </figure>
         </div>
+    <br>
     <br>
     <div class="session-item">
         <b>3. Optical Tissue Clearing Techniques for 3D Lightsheet</b>
@@ -48,7 +56,7 @@ The topics for the workshops are:
         </div>
     </div>
 </div>
-
+<br>
 <br>
 
 Register for the workshops using <a href="{{ site.workshops_registration_link }}" target="_blank"><b>this link</b></a>

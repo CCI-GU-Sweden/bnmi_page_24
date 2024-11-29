@@ -20,7 +20,8 @@ Travel:
 <b>Göteborg Landvetter Airport</b> is an international airport serving the Gothenburg region in Sweden. It is located 20 Km south-east of the city centre and you can travel directly from various destinations in Europa and the world. For general information, please click <a href="http://www.swedavia.com/landvetter/">here</a>.
 
 <figure class="center">
-<img src="/assets/swedavia.jpg" width="35%" height="auto"/>
+<!-- <img src="/assets/swedavia.jpg" style="width: 35%; height:auto;"/> -->
+<img src="/assets/swedavia.jpg"/>
 </figure>
 
 <h6>Airport transfer</h6>
