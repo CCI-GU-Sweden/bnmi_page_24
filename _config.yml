@@ -123,9 +123,7 @@ navigation_header:
 
 navigation_footer:
 - title: CCI
-  url: https://www.gu.se/core-facilities/infrastruktur/centre-for-cellular-imaging-cci
-# - title: Contact
-#   url: /contact/
+  url: https://www.gu.se/en/core-facilities/infrastructure-at-core-facilities/centre-for-cellular-imaging
 - title: Search
   url: /search/
 - title: Registration
@@ -140,29 +138,7 @@ custom_fonts:
     - https://fonts.gstatic.com
     - https://fonts.googleapis.com
   font_urls:
-    #- https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
-    #- https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'
     - https://fonts.googleapis.com/css2?family=Questrial&display=swap
-    #- https://fonts.googleapis.com/css2?family=Modak&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 email_settings:
   smtp_server: smtpgw.gu.se
