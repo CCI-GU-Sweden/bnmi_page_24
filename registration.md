@@ -63,21 +63,20 @@ Registration Fees</h5>
                   {{ item.name }}
               </div>
               <div class="column">
-                sek {{ item.price }} (or € {{ item.eur }})
+                SEK {{ item.price }} (or € {{ item.eur }})
               </div>
             </div>
           {% endfor %}
         </div>    
+        <br>
   {% endfor %}
-
-  <br/>
 
   <div class="row">
     <div class="column">
         {{ page.dinner.name }}
     </div>
     <div class="column" style="flex: 45%;">
-    sek {{ page.dinner.price }} (or € {{ page.dinner.eur }})
+    SEK {{ page.dinner.price }} (or € {{ page.dinner.eur }})
     </div>
   </div> 
 
