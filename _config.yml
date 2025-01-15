@@ -43,6 +43,8 @@ collections:
     output: true
   speakers:
     output: true
+  hotels:
+    output: true
 
 # Build settings
 remote_theme: daviddarnes/alembic@main

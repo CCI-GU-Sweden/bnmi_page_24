@@ -67,5 +67,19 @@ From stop valand tram number 7 and bus 753 will take you to Medicinaregatan.
 <h6>Sightseeing in Gothenburg</h6>
 Please, visit the <a href="http://www.goteborg.com/en/">Göteborg tourist information</a> page for the <a href="https://www.goteborg.com/en/guides/10-must-dos-in-gothenburg">10-must-dos</a> 
 
-<!-- <h6 id="staying_in">Staying in Gothenburg</h6>
-<h6>Hotels</h6> -->
+<h6 id="staying_in">Staying in Gothenburg</h6>
+<h6>Hotels</h6>
+
+Below you can find a selection of hotels available in Gothenburg for your stay.<br>
+Please contact them directly regarding price and availability.
+
+{% assign hotels = site.hotels[0].hotels %}
+
+{% for hotel in hotels %}
+<div class="bullet-div" markdown="1">
+<a href="{{ hotel.webpage }}">
+* **{{ hotel.name }}**<br>
+**Address:** {{ hotel.address }} <a href="https://www.google.com/maps/search/?api=1&query={{hotel.address}}" target="_blank">(Google maps)</a><br>
+<a href="{{ hotel.webpage }}" target="_blank">Webpage and information</a>
+</div>
+{% endfor %}
