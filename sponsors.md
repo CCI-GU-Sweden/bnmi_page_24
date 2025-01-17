@@ -19,6 +19,14 @@ sponsors:
   - name: Abberior Instruments GmbH
     logo: /assets/abberior.png
     link: https://abberior.rocks/superresolution-and-confocal-systems/
+  - name: Oxxius
+    logo: /assets/Logo-oxxius.jpg
+    link: https://www.oxxius.com
+  - name: Evidente
+    logo: /assets/Evident_Logo_Color_2023_Aug.jpg
+    link: https://EvidentScientific.com
+
+    
 
 columns: 3
 ---
@@ -72,48 +80,9 @@ A huge thanks to our sponsors:
 <div class="logo-container">
   {% for logo in page.sponsors %}
     <div class="logo-item">
-      <a href="{{ logo.link }}">
+      <a href="{{ logo.link }}" target="blank">
       <img src="{{ logo.logo }}" alt="{{ logo.name }}">
       </a>
     </div>
   {% endfor %}
 </div>
-
-
-
-<!-- <ul class="logo-container">
-{% for item in page.sponsors %}
-    <li class="logo-item">
-        <a href="{{ item.link }}">
-        <img src="{{ item.logo }}" alt="{{item.name }}"/>
-        </a>
-    </li>
-{% endfor %}
-</ul> -->
-
-
-<!-- <table class="image-table">
-{% for item in page.sponsors %}
-    {% assign mod = forloop.index0 | modulo: page.columns %}
-    {% if mod == 0 or forloop.first %}
-        <tr>
-    {% endif %}
-    <td class="image-cell">
-        <!-- {{ item.name }} 
-        <a href="{{ item.link }}">
-        {% if item.logo == "" %}
-            <h4>{{ item.name }}</h4>
-        {% else %}
-           <img src="{{ item.logo }}"/>
-        {% endif %}
-        </a>
-    </td>
-    {% assign modend = forloop.index | modulo: page.columns %}
-    {% if modend == 0 or forloop.last %}
-        </tr>
-    {% endif %}
-{% endfor %}
-</table> -->
-<!-- CARL ZEISS
-
-MILTENYI BIOTEC -->
