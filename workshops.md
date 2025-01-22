@@ -12,7 +12,10 @@ BNMI 2025 pre-symposium workshops
 
 <br>
 
-We are also organizing pre-symposium workshops that will be held on 18th and 19th of August. 
+We are also organizing pre-symposium workshops that will be held on 18th and 19th of August.<br>
+
+<a href="{{ site.workshops_registration_link }}" target="_blank"><b>You can register here</b></a>
+
 The topics for the workshops are:
 <br>
 

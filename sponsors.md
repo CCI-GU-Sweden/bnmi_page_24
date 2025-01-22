@@ -25,6 +25,10 @@ sponsors:
   - name: Evidente
     logo: /assets/Evident_Logo_Color_2023_Aug.jpg
     link: https://EvidentScientific.com
+  - name: Thermo Fisher
+    logo: /assets/ThermoFisher.png
+    link: http://thermofisher.com/volumeEM
+    
 
     
 
