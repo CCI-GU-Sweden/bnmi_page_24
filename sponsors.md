@@ -27,7 +27,11 @@ sponsors:
     link: https://EvidentScientific.com
   - name: Thermo Fisher
     logo: /assets/ThermoFisher.png
-    link: http://thermofisher.com/volumeEM
+    link: https://thermofisher.com/volumeEM
+  - name: Webknossos
+    logo: /assets/webknossos.png
+    link: https://webknossos.org
+    
     
 
     
