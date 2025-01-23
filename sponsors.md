@@ -68,6 +68,26 @@ The BNMI 2025 symposium serves as a vital platform to unite Nordic imaging infra
 </div>
 <br>
 
+
+<h4>
+Media Partner:
+</h4>
+<br>
+
+<p>
+Microscopy and Analysis (M&A) is renowned for its authoritative scientific content, tailored for both users and developers of microscopy. We provide hands-on information about novel techniques and applications in Light Microscopy, Electron Microscopy, Scanning Probe Microscopy, Image Processing, and X-Ray Analysis. In addition to the latest news and updates from various societies, M&A also keeps you informed about upcoming meetings, conferences, and cutting-edge products for scientific research.
+</p>
+<br>
+
+
+<figure class="center">
+  <a href="https://analyticalscience.wiley.com/publication/microscopy-and-analysis" target="blank">
+    <img src="/assets/maem_logo.jpg" alt="Microscopy and Analysis" style="width:70%">
+  </a>
+</figure>
+<br>
+
+
 <h4>
 Sponsors:
 </h4>
