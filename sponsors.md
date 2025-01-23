@@ -31,6 +31,10 @@ sponsors:
   - name: Webknossos
     logo: /assets/webknossos.png
     link: https://webknossos.org
+  - name: Micromedic
+    logo: /assets/micromedic_logo.png
+    link: https://micromedic.se
+  
     
     
 
