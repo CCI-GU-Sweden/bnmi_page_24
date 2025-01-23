@@ -27,7 +27,7 @@ Keynote speakers
   {% for speaker in speakers.speakers %}
 <figure>
     {% if speaker.weblink" %}
-<a href="{{ speaker.weblink }}">
+<a href="{{ speaker.weblink }}" target="blank">
     {% endif %}
 <img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
     {% if speaker.weblink %}
@@ -55,7 +55,7 @@ Speakers
 
 <figure>
     {% if speaker.weblink %}
-<a href="{{ speaker.weblink }}">
+<a href="{{ speaker.weblink }}" target="blank">
     {% endif %}
   <img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
    {% if speaker.weblink %}

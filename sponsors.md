@@ -52,12 +52,12 @@ The BNMI 2025 symposium serves as a vital platform to unite Nordic imaging infra
 
 <div class="image-container" style="width: 100%; height: auto; object-fit: scale-down;">
     <figure>
-        <a href="https://www.nordforsk.org/">
+        <a href="https://www.nordforsk.org/" target="blank">
           <img src="/assets/nordforsk.png" alt="Nordforsk">
         </a>
     </figure>
     <figure>
-        <a href="https://www.scilifelab.se/">
+        <a href="https://www.scilifelab.se/" target="blank">
           <img src="/assets/scilifelab.png" alt="scilifelab">
         </a>
     </figure>
