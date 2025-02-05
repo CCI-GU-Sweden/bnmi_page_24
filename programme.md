@@ -12,9 +12,10 @@ Programme:
 <h5>
 Schedule:
 </h5>
-
-![image](/assets/tmp_schedule.png)
-
+<a href="/assets/schedule.jpg" target="_blank">
+![image](/assets/schedule.jpg)
+</a>
+(Click image for larger version)
 <h5>Sessions:</h5>
 
 <br>

@@ -104,6 +104,8 @@ Registration Fees</h5>
 </div> 
 <br/>
 
+<b>Note:</b> PhD students are eligible to apply for a fellowship to cover the symposium fee, as well as travel and accommodation expenses, up to a maximum of 5,000 Norwegian Kroner. To apply, applicants must provide proof of their PhD status, submit an abstract for a presentation (poster or oral), and include a motivation letter.<br/>
+Applications should be sent to the following address: <b>bnmi-2025@ibv.uio.no</b>
 
 Included in Delegate registration:  
 <div class="bullet-div" markdown="1">
