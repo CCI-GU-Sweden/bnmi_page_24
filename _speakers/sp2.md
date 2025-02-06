@@ -1,6 +1,7 @@
 ---
 type: session
-title: Correlative Multimodal Imaging – Imaging Across Scales
+#title: Correlative Multimodal Imaging – Imaging Across Scales
+title: Enabling imaging across scales
 speakers:
     - name: Evgenia Zagoriy
       img: /assets/speakers/evgenia.jpg
