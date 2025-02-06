@@ -14,6 +14,18 @@ speakers:
       country: the Netherlands
       presentation: ""
       weblink: 
+    - name: Shigeaki Kanatani
+      img: /assets/speakers/scientist.jpg
+      institute: Karolinska Institute
+      country: Sweden
+      presentation:
+      weblink:
+    - name: Jemima Burden
+      img: /assets/speakers/jemima.jpeg
+      institute: University College of London, Lab for Molecular Cell Bio MRC-UCL
+      country: United Kingdom
+      presentation: 
+      weblink: https://profiles.ucl.ac.uk/3477-jemima-burden
 
 ---
 
