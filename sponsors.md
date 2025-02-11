@@ -34,6 +34,12 @@ sponsors:
   - name: Micromedic
     logo: /assets/micromedic_logo.png
     link: https://micromedic.se
+  - name: Hamamatsu
+    logo: /assets/hamamatsu.png
+    link: https://www.hamamatsu.com
+  - name: Agendo Science
+    logo: /assets/agendoscience.svg
+    link: https://www.agendoscience.com/
   
     
     
