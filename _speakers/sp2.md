@@ -16,11 +16,11 @@ speakers:
       presentation: ""
       weblink: 
     - name: Shigeaki Kanatani
-      img: /assets/speakers/scientist.jpg
+      img: /assets/speakers/shigeaki.jpg
       institute: Karolinska Institute
       country: Sweden
       presentation:
-      weblink:
+      weblink: "https://ki.se/en/people/shigeaki-kanatani"
     - name: Jemima Burden
       img: /assets/speakers/jemima.jpeg
       institute: University College of London, Lab for Molecular Cell Bio MRC-UCL
