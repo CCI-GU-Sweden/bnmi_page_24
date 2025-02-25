@@ -87,8 +87,20 @@ Microscopy and Analysis (M&A) is renowned for its authoritative scientific conte
 
 
 <figure class="center">
-  <a href="https://analyticalscience.wiley.com/publication/microscopy-and-analysis" target="blank">
+  <a href="https://analyticalscience.wiley.com/publication/microscopy-and-analysis" target="_blank">
     <img src="/assets/maem_logo.jpg" alt="Microscopy and Analysis" style="width:70%">
+  </a>
+</figure>
+<br>
+<p>
+Methods in Microscopy (MiM) serves as your gateway to cutting-edge microscopic and nanoscopic techniques. In an era of rapid scientific advancement, our editorial team fully recognizes the importance of methodological innovation, which is often overlooked in research. Methods in Microscopy provides an Open-Access platform for the peer-reviewed publication of these methodologies. The mission is to make these techniques accessible to a broad audience, fostering understanding and accelerating scientific progress among experts and users alike. The journal publishes Research Articles, Review Articles, Letters, Tutorials, Editorials, News, and Views.
+</p>
+<br>
+
+
+<figure class="center">
+  <a href="https://www.degruyter.com/journal/key/mim/html" target="_blank">
+    <img src="/assets/MiM-Logo_original.png" alt="methods in Microscopy" style="width:55%">
   </a>
 </figure>
 <br>
