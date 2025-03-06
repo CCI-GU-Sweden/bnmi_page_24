@@ -14,6 +14,9 @@ prices:
     - name: Student (PhD)
       price: 1500
       eur: 150
+    - name: Facility staff *
+      price: 1850 
+      eur: 185
     - name: Non-Academic
       price: 4500
       eur: 450
@@ -25,6 +28,9 @@ prices:
     - name: Student (PhD)
       price: 2500
       eur: 250
+    - name: Facility staff *
+      price: 2850 
+      eur: 285
     - name: Non-Academic
       price: 5500
       eur: 550
@@ -104,7 +110,9 @@ Registration Fees</h5>
 </div> 
 <br/>
 
-<b>Note:</b> PhD students and post docs are eligible to apply for a fellowship to cover the symposium fee, as well as travel and accommodation expenses, up to a maximum of 5,000 Norwegian Kroner. To apply, applicants must provide proof of their PhD status, submit an abstract for a presentation (poster or oral), and include a motivation letter.<br/>
+<i>* With non-Managerial responsibilities</i>
+
+<b>Note: PhD students and Postdocs</b> are eligible to apply for a fellowship to cover the symposium fee, as well as travel and accommodation expenses, up to a maximum of 5,000 Norwegian Kroner. To apply, applicants must provide proof of their PhD status, submit an abstract for a presentation (poster or oral), and include a motivation letter.<br/>
 Applications should be sent to the following address: <b>bnmi-2025@ibv.uio.no</b>
 
 Included in Delegate registration:  
