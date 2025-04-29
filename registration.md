@@ -64,9 +64,9 @@ Abstract submission opening **15th November 2024**
 
 Exhibition registration deadline **15th April 2025**
 
-Abstract submission deadline **25th April 2025**
+Abstract submission deadline **15th May 2025**
 
-Early online registration deadline **1st May 2025**
+Early online registration deadline **15th May 2025**
 
 Notice of acceptation **15th May 2025**
 
