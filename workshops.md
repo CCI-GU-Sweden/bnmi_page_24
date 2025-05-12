@@ -21,14 +21,15 @@ The topics for the workshops are:
 
 <div class="sessions-list">
     <div class="session-item">
-    <b>1. Correlative Array Tomography </b>
+    <b>1. Train-the-trainer workshop: how to improve your own training </b>
         <div class="bullet-div">
-        <p>Explore the possibilities of Correlative Array Tomography (CAT) in this hands-on workshop designed for researchers aiming to achieve detailed, multimodal insights into 3D cellular architecture. CAT combines diverse microscopy modalities, including fluorescence and electron microscopy, to create highly informative composite views of biological samples. This multimodal approach bridges the spatial scale from nanometres to millimetres, offering unparalleled insights into the structure, function, and molecular composition of samples by integrating the strengths of complementary techniques.
+        <p>Have you ever experienced that users don’t seem to remember much of what you taught them when you trained them? How can we improve the way we train users so that they really learn?
+        Pedagogy is the science of how we learn and how to design effective teaching. Pedagogical tools are simple to apply and have a great potential for improving the learning outcome of microscopy trainings.
         <br><br> 
-        Over one and a half days, participants will learn the complete CAT workflow, from sample preparation to data analysis. Topics include fixation and resin embedding, sectioning and mounting, post-staining of sections, imaging with different modalities, and advanced image analysis and reconstruction. Attendees will gain both theoretical knowledge and practical skills to implement CAT in their research, enabling deeper exploration of complex scientific questions.
+        During this 2h workshop, we will guide you to improve the design of your own microscopy training, in small steps and at your own pace.
         </p>
         <figure class="center">
-            <img src="/assets/cat_figure.png" style="width: 65%" height="auto"/>
+            <img src="/assets/training_the_trainer.jpeg" style="width: 65%" height="auto"/>
         </figure>
         </div>
     </div>
