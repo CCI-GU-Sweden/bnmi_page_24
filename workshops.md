@@ -27,6 +27,7 @@ The topics for the workshops are:
         Pedagogy is the science of how we learn and how to design effective teaching. Pedagogical tools are simple to apply and have a great potential for improving the learning outcome of microscopy trainings.
         <br><br> 
         During this 2h workshop, we will guide you to improve the design of your own microscopy training, in small steps and at your own pace.
+        <br><b>Trainer:</b> Sylvie Le Guyader
         </p>
         <figure class="center">
             <img src="/assets/training_the_trainer.jpeg" style="width: 65%" height="auto"/>
