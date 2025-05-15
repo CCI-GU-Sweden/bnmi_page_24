@@ -68,7 +68,7 @@ Abstract submission deadline **25th May 2025**
 
 Early online registration deadline **25th May 2025**
 
-Notice of acceptation **2bn5th May 2025**
+Notice of acceptation **25th May 2025**
 
 
 </div>  
