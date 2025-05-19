@@ -26,8 +26,8 @@ The topics for the workshops are:
         <p>Have you ever experienced that users don’t seem to remember much of what you taught them when you trained them? How can we improve the way we train users so that they really learn?
         Pedagogy is the science of how we learn and how to design effective teaching. Pedagogical tools are simple to apply and have a great potential for improving the learning outcome of microscopy trainings.
         <br><br> 
-        During this 2h workshop, we will guide you to improve the design of your own microscopy training, in small steps and at your own pace.
-        <br><b>Trainer:</b> Sylvie Le Guyader
+        During this 2h workshop, we will guide you to improve the design of your own microscopy training, in small steps and at your own pace. The workshop will run on the 19th of August from 10:00 to 12:00.
+        <br><br><b>Trainers:</b> Sylvie Le Guyader, Karolinska Institutet, Sweden and Rhonda Reigers Powell, Clemson University, US
         </p>
         <figure class="center">
             <img src="/assets/training_the_trainer.jpeg" style="width: 65%" height="auto"/>
