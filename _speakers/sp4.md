@@ -14,5 +14,12 @@ speakers:
       country: GERMANY
       presentation: "At OpenUC2, we believe that open-source technology is the future of scientific innovation. By making our designs, code, and processes accessible to everyone, we foster a global community to contribute, experiment, and expand the possibilities of modular microscopy. Our mission is to provide a platform where both researchers and enthusiasts can collaborate to push the"
       weblink: https://openuc2.com/author/benedi/
+
+    - name: Michael Abanto
+      institute: University of Basel, Department of Biomedicine
+      img: /assets/speakers/michael.png
+      country: Schweiz
+      presentation: "Head of Microscopy Core Facilit"
+      weblink: https://biomedizin.unibas.ch/en/persons/michael-abanto/
 ---
 
