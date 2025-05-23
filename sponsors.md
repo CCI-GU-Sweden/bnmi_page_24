@@ -40,6 +40,12 @@ sponsors:
   - name: Agendo Science
     logo: /assets/agendoscience.svg
     link: https://www.agendoscience.com/
+  - name: Leica Systems
+    logo: /assets/leica.jpg
+    link: "https://www.leica-microsystems.com/c/em/apm/microscopy-solutions-industry/?nlc=20250312-SFDC-022809&utm_source=google&utm_medium=cpc&utm_campaign=25-EM-APM-L3-APPO-AAPM-SE-Google-Ads-Applied-First-Time-Brand-Search-EMEA&utm_content=text_ad&utm_term=leica-microsystems&gad_source=1&gad_campaignid=420819857"
+  - name: Oxford Instruments
+    logo: /assets/oxford.png
+    link: https://andor.oxinst.com/
   
     
     
