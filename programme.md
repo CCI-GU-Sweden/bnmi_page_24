@@ -38,7 +38,7 @@ Schedule:
 In advance of BNMI 2025 Symposium, we are pleased to offer a series of hands-on <b>pre-Symposium workshops</b> on August 18 and 19. These sessions will cover cutting-edge topics, including:
 <div class="bullet-div">
     <ul>
-    <li> Correlative Array Tomography</li>
+    <li> Train-the-trainer workshop</li>
     <li> Smart Microscopy </li>
     <li> Optical Tissue Clearing Techniques for 3D Lightsheet Imaging </li>
     </ul>
