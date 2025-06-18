@@ -2,7 +2,7 @@
 type: session
 title: "Imaging sub-cellular events at high resolution using advanced light"
 speakers:
-    - name: Jonas Reis
+    - name: Jonas Ries
       institute: Max PerutzLabs at the Vienna BioCenter, University of Vienna
       img: /assets/speakers/jonas.jpg
       country: AUSTRIA
