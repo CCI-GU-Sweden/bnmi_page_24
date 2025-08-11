@@ -45,6 +45,8 @@ collections:
     output: true
   hotels:
     output: true
+  workshops:
+    output: true
 
 # Build settings
 remote_theme: daviddarnes/alembic@main
