@@ -47,6 +47,10 @@ dinner:
 ---
 
 
+<h2 style="color:red">
+Registration is closed!
+</h2>
+
 <h4>Registration:</h4>
 
 <p>
@@ -127,7 +131,7 @@ Included in Delegate registration:
 
 Travel and accommodation arrangements are the responsibility of the individual delegate.
 
-Registration for the symposium can be done through the website <b>[here]({{ site.symposium_registration_link }}){:target="_blank"}</b>
+<!-- Registration for the symposium can be done through the website <b>[here]({{ site.symposium_registration_link }}){:target="_blank"}</b> -->
 
 Please note that the pre-symposium workshops are not included in the registration fee for this symposium. Check out the **[workshops]({{site.baseurl}}/workshops)** page for more information about that.
 

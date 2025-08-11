@@ -6,6 +6,11 @@ permalink: /workshops/
 feature_image: "/assets/hero.png"
 ---
 
+<h5 style="color:red">
+Registration for the workshops is closed
+</h5>
+<br>
+
 <h4>
 BNMI 2025 pre-symposium workshops
 </h4>
@@ -14,7 +19,7 @@ BNMI 2025 pre-symposium workshops
 
 We are also organizing pre-symposium workshops that will be held on 18th and 19th of August.<br>
 
-<a href="{{ site.workshops_registration_link }}" target="_blank"><b>You can register here</b></a>
+<!-- <a href="{{ site.workshops_registration_link }}" target="_blank"><b>You can register here</b></a> -->
 
 The topics for the workshops are:
 <br>
@@ -64,4 +69,4 @@ The topics for the workshops are:
 <br>
 <br>
 
-Register for the workshops using <a href="{{ site.workshops_registration_link }}" target="_blank"><b>this link</b></a>
+<!-- Register for the workshops using <a href="{{ site.workshops_registration_link }}" target="_blank"><b>this link</b></a> -->
