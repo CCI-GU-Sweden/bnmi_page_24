@@ -20,10 +20,39 @@ BNMI 2025 pre-symposium workshops
 We are also organizing pre-symposium workshops that will be held on 18th and 19th of August.<br>
 
 <!-- <a href="{{ site.workshops_registration_link }}" target="_blank"><b>You can register here</b></a> -->
-
-The topics for the workshops are:
+<div class="sessions-list">
+    The workshops are:
+    <br><br>
+    {% for ws in site.workshops %}
+        <div class="session-item">
+            <b> {{ ws.title }} {{ ws.subtitle }}</b>
+            <div class="bullet-div">
+                {{ ws.content }}
+                <b>Time:</b> {{ ws.time}} <br>
+                <b>Location:</b> {{ ws.location}}<br>
+                <br/>
+            {% if ws.image != nil %}
+                <img src="{{ ws.image }}" style="width: 65%" height="auto"/>
+            {% endif %}    
+            {% if ws.sponsors != "" %}
+               <b>Sponsored by:</b>
+            {% endif %}
+            </div>
+            <div class="logo-container">
+                {% for logo in ws.sponsors %}
+                    <div class="logo-item">
+                    <a href="{{ logo.link }}" target="blank">
+                    <img src="{{ logo.logo }}" alt="{{ logo.name }}">
+                    </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+        <br/>
+    {% endfor %}
+</div>
+<!-- The topics for the workshops are:
 <br>
-
 <div class="sessions-list">
     <div class="session-item">
     <b>1. Train-the-trainer workshop: how to improve your own training </b>
@@ -67,6 +96,6 @@ The topics for the workshops are:
     </div>
 </div>
 <br>
-<br>
+<br> -->
 
 <!-- Register for the workshops using <a href="{{ site.workshops_registration_link }}" target="_blank"><b>this link</b></a> -->
