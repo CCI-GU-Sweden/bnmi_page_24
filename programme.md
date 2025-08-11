@@ -12,10 +12,16 @@ Programme:
 <h5>
 Schedule:
 </h5>
-<a href="/assets/schedule.jpg" target="_blank">
-![image](/assets/schedule.jpg)
-</a>
-(Click image for larger version)
+<div class="programme">
+  {% for f in site.static_files %}
+    {% if f.path contains 'programme/' %}
+      <a href="{{ f.path }}">
+        <img src="{{ f.path }}"/>
+      </a>
+      {% endif %}
+  {% endfor %}
+</div>
+
 <h5>Sessions:</h5>
 
 <br>
