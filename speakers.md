@@ -18,18 +18,19 @@ Speakers:
 Keynote speakers
 </h5>
 <br>
-{% for speakers in keynote_speakers %}
-<div class="speaker-container" style="text-align: left;">
+
+<!-- <div class="speaker-container" style="text-align: left;">
   {{ speakers.title }}
-</div>
+</div> -->
 
 <div class="image-container">
+{% for speakers in keynote_speakers %}
   {% for speaker in speakers.speakers %}
 <figure>
     {% if speaker.weblink" %}
 <a href="{{ speaker.weblink }}" target="blank">
     {% endif %}
-<img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 70%">
+<img src="{{ speaker.img }}" alt="{{ speaker.name }}" style="width: 200px; height: 90%">
     {% if speaker.weblink %}
 </a>
     {% endif %}
@@ -38,9 +39,9 @@ Keynote speakers
 </figure>
 
 {% endfor %}
-</div>
-{% endfor %}
 
+{% endfor %}
+</div>
 <br/>
 <h5>
 Speakers
