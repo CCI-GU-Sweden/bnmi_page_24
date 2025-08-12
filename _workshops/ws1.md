@@ -3,6 +3,7 @@ title: "Smart Microscopy"
 subtitle: "- from Image Analysis to Intelligent Acquisition"
 time: "Monday, 18 August (09:00–17:00) – Tuesday, 19 August (09:00–12:00)"
 location: "Centre for Cellular Imaging, Medicinaregatan 5A-7A, 413 90 Gothenburg"
+document: "/assets/SM-workshop-2025 2.pdf"
 sponsors:
   - name: Zeiss
     logo: /assets/zeiss_scaled.png

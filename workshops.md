@@ -25,10 +25,13 @@ We are also organizing pre-symposium workshops that will be held on 18th and 19t
             <div class="bullet-div">
                 {{ ws.content }}
                 <b>Time:</b> {{ ws.time}} <br>
-                <b>Location:</b> {{ ws.location}}<br>
+                <b>Location:</b> {{ ws.location}}<br><br>
+                {% if ws.document != nil %}
+                    <a href="{{ ws.document}}"><b>Workshop Details (pdf)</b></a><br>
+                {% endif %}
                 <br/>
             {% if ws.image != nil %}
-                <img src="{{ ws.image }}" style="width: 65%" height="auto"/>
+                <img src="{{ ws.image }}" style="width: 55%" height="auto" style="underline: true;"/>
             {% endif %}    
             {% if ws.sponsors != "" %}
                <b>Sponsored by:</b>
