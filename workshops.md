@@ -6,10 +6,6 @@ permalink: /workshops/
 feature_image: "/assets/hero.png"
 ---
 
-<h5 style="color:red">
-Registration for the workshops is closed
-</h5>
-<br>
 
 <h4>
 BNMI 2025 pre-symposium workshops
