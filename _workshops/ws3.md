@@ -3,6 +3,7 @@ title: "Train-the-trainer workshop"
 subtitle: "- how to improve your own training"
 time: "Tuesday, 19 August (09:00–11:00)"
 location: "Centre for Cellular Imaging, Medicinaregatan 5A-7A, 413 90 Gothenburg"
+document: "/assets/train-the-trainer-2025.pdf"
 sponsors: ""
 image: "/assets/training_the_trainer.jpeg"
 
