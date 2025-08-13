@@ -1,7 +1,7 @@
 ---
 title: "Train-the-trainer workshop"
 subtitle: "- how to improve your own training"
-time: "Monday, 18 August (09:00–17:00) – Tuesday, 19 August (09:00–12:00)"
+time: "Tuesday, 19 August (09:00–11:00)"
 location: "Centre for Cellular Imaging, Medicinaregatan 5A-7A, 413 90 Gothenburg"
 sponsors: ""
 image: "/assets/training_the_trainer.jpeg"
@@ -14,7 +14,7 @@ Pedagogy is the science of how we learn and how to design effective teaching. Pe
 </p>
 
 <p>
-During this 2h workshop, we will guide you to improve the design of your own microscopy training, in small steps and at your own pace. The workshop will run on the 19th of August from 10:00 to 12:00.
+During this 2h workshop, we will guide you to improve the design of your own microscopy training, in small steps and at your own pace. The workshop will run on the 19th of August from 9:00 to 11:00.
 
 </p>
 <p>
