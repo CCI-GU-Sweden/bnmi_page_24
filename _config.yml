@@ -107,7 +107,7 @@ navigation_header:
   url: /home/
 - title: Registration
   url: /registration/
-- title: Programme
+- title: Program
   url: /programme/
 - title: Speakers
   url: /speakers/

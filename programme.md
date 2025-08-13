@@ -5,22 +5,36 @@ feature_image: "/assets/hero.png"
 ---
 
 <h4>
-Programme:
+Program:
 </h4>
 <br/>
 
 <h5>
 Schedule:
 </h5>
+<br/>
 <div class="programme">
   {% for f in site.static_files %}
     {% if f.path contains 'programme/' %}
       <a href="{{ f.path }}">
         <img src="{{ f.path }}"/>
       </a>
+      <br/>
+      <br/>
       {% endif %}
   {% endfor %}
+
+  <br>
+  <br>
+
+  <a href="/assets/BNMI 2025_Gothenburg.pdf">
+  <h5>Program and abstract book here (PDF)</h5>
+  </a>
+
 </div>
+
+<br>
+<br>
 
 <h5>Sessions:</h5>
 
